@@ -2,12 +2,22 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/seller-service" />
+    <file type="web" url="file://$PROJECT_DIR$/shop-web" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/provider/pom.xml" />
         <option value="$PROJECT_DIR$/consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/seller-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/seller-service/pom.xml" />
+        <option value="$PROJECT_DIR$/manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-web/pom.xml" />
+        <option value="$PROJECT_DIR$/dao/pom.xml" />
+        <option value="$PROJECT_DIR$/parent/pom.xml" />
       </list>
     </option>
   </component>
